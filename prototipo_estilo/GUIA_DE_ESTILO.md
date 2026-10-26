@@ -5,7 +5,7 @@ Referência principal: print enviado pelo usuário, com guerreiro de cabelo loir
 ## Regras do corpo
 
 1. Todos os humanos e deuses usam **a mesma construção corporal**. O personagem mede aproximadamente cinco cabeças de altura. O rosto é um círculo branco grande com dois olhos pretos pequenos e expressão mínima.
-2. Braços: tubos brancos estreitos com contorno preto, largura constante do ombro ao pulso (cerca de um décimo do diâmetro do rosto). Mãos pequenas arredondadas. Sem bíceps, antebraços anatômicos, dedos realistas ou braços inteiramente pretos.
+2. Braços: tubos brancos estreitos com contorno preto, largura constante do ombro ao pulso (cerca de um quinto do diâmetro do rosto). Mãos pequenas arredondadas. Sem bíceps, antebraços anatômicos, dedos realistas ou braços inteiramente pretos.
 3. Pernas: tubos brancos estreitos, largura constante, com sandálias simples. Sem coxas ou panturrilhas anatômicas. Saias, túnicas e armaduras cobrem o corpo sem mudar a construção dos membros.
 4. Poses de ação apenas dobram ou giram os tubos. A anatomia nunca muda com a pose, a distância da câmera ou o gênero.
 5. Homens e mulheres compartilham o mesmo corpo base. Cabelo, roupas e acessórios distinguem personagens. Gigantes podem ser maiores em escala, mas conservam o mesmo rosto e os mesmos membros básicos quando antropomórficos.
